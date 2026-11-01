@@ -1,10 +1,11 @@
 [project]
 name = "desktop"
 version = "0.1.0"
-description = "This is a desktop app for stock management of a handcrafts store"
+description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Samuel Botina", email = "samuelmusic4s@gmail.com" }
+    { name = "Samuel Botina", email = "samuelmusic4s@gmail.com" },
+    { name = "Manuel Aguirre", email = "manuelaguirre3123@gmail.com"}
 ]
 requires-python = ">=3.14"
 dependencies = []
